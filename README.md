@@ -1,2 +1,2 @@
 # DHT
-A DHT project from CMPT 307(FALL 2015)
+A DHT project from CMPT 371(FALL 2015)
